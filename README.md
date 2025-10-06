@@ -19,7 +19,7 @@
 ## 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,cs,html,css,js,sqlite,mysql,tensorflow,pytorch,OpenGL,git" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,cs,html,css,js,sqlite,mysql,tensorflow,pytorch,Vulkan,git" />
 </p>  
 
 ---
