@@ -10,9 +10,9 @@
 
 * 🎓 Computer Engineering student @ Uniube Uberaba (Class of 2028).
 * 🤖 Passionate about **AI, Data Science, Cybersecurity and Computer Graphics**.
-* 🔭 Currently working on **ML models, computer vision, and automation tools**.
+* 🔭 Currently working on **DL models,graph engine with OpenGL and automation tools**.
 * ⚡ Exploring **CAD 3D modeling, energy projects, and robotics**.
-* 🎯 My dream: build something like **JARVIS** in real life.
+* 🎯 My dream: build something **Iconic**.
 
 ---
 
