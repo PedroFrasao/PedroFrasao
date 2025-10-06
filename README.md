@@ -1,51 +1,55 @@
 # 👋 Hi, I'm Pedro Henrique Frasão
 
-🚀 I'm a **Computer Engineering student** at Uniube Uberaba (expected graduation: 2028) and a passionate learner in the fields of **Artificial Intelligence, Data Science, and Cybersecurity**.
-Since childhood, I've been inspired by Tony Stark’s vision of technology, and my long-term goal is to create something as close as possible to a real-life JARVIS.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Computer+Engineering+Student;AI+%26+Data+Science+Enthusiast;Future+AI+Engineer;Always+Learning+%F0%9F%9A%80" alt="Typing Animation" />
+</p>
 
 ---
 
-## 🔧 What I'm currently working on
+## 🚀 About Me
 
-* 📊 **Data Science & Machine Learning** – building models with TensorFlow and PyTorch.
-* 🤖 **Computer Vision** – completed a facial recognition project with automated login.
-* 🧾 **Automation** – developing tools for invoice analysis and system integration.
-* ⚡ **Energy & Hardware Prototyping** – experimenting with renewable energy and CAD 3D modeling.
-* 🔒 **Cybersecurity (hobby)** – exploring penetration testing and hacking challenges (TryHackMe, CTFs).
-
----
-
-## 🧠 My skills
-
-* **Programming:** Python, C/C++, Java, C#, HTML/CSS/JS, SQL
-* **Frameworks:** TensorFlow, PyTorch, OpenGL, Unity, VTK
-* **Fields of Interest:** Data Science, AI, Deep Learning, Cybersecurity, CAD software, Robotics
+* 🎓 Computer Engineering student @ Uniube Uberaba (Class of 2027).
+* 🤖 Passionate about **AI, Data Science, and Cybersecurity**.
+* 🔭 Currently working on **ML models, computer vision, and automation tools**.
+* ⚡ Exploring **CAD 3D modeling, energy projects, and robotics**.
+* 🎯 My dream: build something like **JARVIS** in real life.
 
 ---
 
-## 📈 My goals
+## 🧰 Languages & Tools
 
-* Gain industry experience as a **Data Scientist / AI Engineer**
-* Transition into **Valley Science (R&D in AI and data)** within Valmont
-* Pursue a **postgraduate degree in AI or Statistics**
-* One day, build my own **AI-focused company**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,cs,html,css,js,react,sqlite,mysql,tensorflow,pytorch,unity,git" />
+</p>  
 
 ---
 
-## 🌌 Fun facts
+## 📊 GitHub Stats
 
-* 🌙 My brain works best at night — I feel more creative and intense then.
-* 🦾 Dreaming of creating futuristic tech that combines **software, hardware, and AI**.
-* 🎯 Always working toward becoming “as intelligent as Iron Man.”
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub stats" height="150"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+</p>  
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>  
 
 ---
 
 ## 📫 Let's connect
 
-* 💼 [LinkedIn](#)
-* 📧 [pedrofrasaovieira@gmail.com](mailto:pedrofrasaovieira@gmail.com)
-* 🐙 [GitHub](https://github.com/PedroFrasao)
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:pedrohenrique@example.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" /></a>
+</p>  
 
 ---
 
 ⭐️ *"Building today what others will call the future."*
+
