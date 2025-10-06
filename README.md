@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-* 🎓 Computer Engineering student @ Uniube Uberaba (Class of 2027).
+* 🎓 Computer Engineering student @ Uniube Uberaba (Class of 2028).
 * 🤖 Passionate about **AI, Data Science, and Cybersecurity**.
 * 🔭 Currently working on **ML models, computer vision, and automation tools**.
 * ⚡ Exploring **CAD 3D modeling, energy projects, and robotics**.
@@ -19,7 +19,7 @@
 ## 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,cs,html,css,js,react,sqlite,mysql,tensorflow,pytorch,unity,git" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,cs,html,css,js,sqlite,mysql,tensorflow,pytorch,OpenGL,git" />
 </p>  
 
 ---
