@@ -9,8 +9,8 @@
 ## 🚀 About Me
 
 * 🎓 Computer Engineering student @ Uniube Uberaba (Class of 2028).
-* 🤖 Passionate about **AI, Data Science, Cybersecurity and Computer Graphics**.
-* 🔭 Currently working on **DL models,graph engine with OpenGL and automation tools**.
+* 🤖 Passionate about **AI, Data Science, Cybersecurity, and Computer Graphics**.
+* 🔭 Currently working on **DL models, graph engine with OpenGL, and automation tools**.
 * ⚡ Exploring **CAD 3D modeling, energy projects, and robotics**.
 * 🎯 My dream: build something **Iconic**.
 
@@ -19,9 +19,8 @@
 ## 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,cpp,java,cs,html,css,js,sqlite,mysql,tensorflow,pytorch,git/>
+  <img src="https://skillicons.dev/icons?i=python,r,cpp,java,cs,html,css,js,sqlite,mysql,tensorflow,pytorch,git" />
 </p>
- 
 
 ---
 
@@ -31,7 +30,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=PedroFrasao&show_icons=true&theme=radical" alt="GitHub stats" height="150"/>  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroFrasao&layout=compact&theme=radical" alt="Top Languages" height="150"/>
 </p>  
- 
 
 ---
 
@@ -54,4 +52,3 @@
 ---
 
 ⭐️ *"Building today what others will call the future."*
-
