@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:pedrofrasaovieira@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
+  <a href="pedrofrasaovieira@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/PedroFrasao"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" /></a>
 </p>  
 
