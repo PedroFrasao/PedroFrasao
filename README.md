@@ -36,12 +36,11 @@
 ## 💻 Coding Animation
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Dino Game GIF" height="200"/>
-  <br>
-  <em>🎮 Pressione Espaço para pular os cactos! (na sua imaginação 😄)</em>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Quantum Computing" height="200"/>
 </p>
 
 ---
+
 ## 📫 Let's connect
 
 <p align="center">
@@ -53,3 +52,4 @@
 ---
 
 ⭐️ *"Building today what others will call the future."*
+
