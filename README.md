@@ -36,8 +36,7 @@
 ## 💻 Coding Animation
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3dhYnk0OWk1cHdhNmE0b3RveHdsc3ZveXVpeHZnZjhkcjFocWZqMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vTr3WiTdqpL6GOT5mF/giphy.gif
-" alt="Future Tech" height="200"/>
+  <img src="https://raw.githubusercontent.com/PedroFrasao/PedroFrasao/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 ---
 
