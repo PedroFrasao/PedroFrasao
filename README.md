@@ -36,7 +36,7 @@
 ## 🟡 Gráfico de Contribuição do Pac-Man
 
 <p align="center">
-  <img src="https://github.com/PedroFrasao/pacman-contribution-graph/blob/output/dist/pacman.gif" alt="Gráfico Pac-Man animado" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
