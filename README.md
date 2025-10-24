@@ -36,7 +36,7 @@
 ## 💻 Coding Animation
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&height=200&lines=Hello+World!;System.out.println(%22AI%22);import+tensorflow;function+deepLearning();const+neuralNet+=+()+=%3E;print(%22Future+Engineer%22)" alt="Typing Code Animation" />
+  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" alt="Robotics" height="200"/>
 </p>
 
 ---
