@@ -36,9 +36,8 @@
 ## 💻 Coding Animation
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroFrasao&theme=react-dark&bg_color=20232a&hide_border=true&area=true&animated=true" alt="activity graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroFrasao&theme=radical&animated=true&fire=FF0000&ring=36BCF7" alt="streak stats" />
 </p>
-
 ---
 ## 📫 Let's connect
 
