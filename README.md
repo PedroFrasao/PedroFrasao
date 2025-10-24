@@ -36,7 +36,7 @@
 ## 💻 Coding Animation
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" alt="Robotics" height="200"/>
+  <img src="https://media.giphy.com/media/HscDL8OdmL6VjgnM0l/giphy.gif" alt="Neural Network" height="200"/>
 </p>
 
 ---
