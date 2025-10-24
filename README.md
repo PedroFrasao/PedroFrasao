@@ -36,8 +36,10 @@
 ## 💻 Coding Animation
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroFrasao&repo=your-repo&theme=radical&show_owner=true&animated=true" alt="3d card" />
+  <strong>🦖 Jogue o Dinossauro do Google! 🦖</strong><br>
+  <iframe src="https://codepen.io/MysticReborn/embed/rygqao" width="600" height="400" frameborder="0"></iframe>
 </p>
+
 ---
 ## 📫 Let's connect
 
