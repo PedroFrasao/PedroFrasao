@@ -36,8 +36,9 @@
 ## 💻 Coding Animation
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Hacker Coding" height="200"/>
+  <img src="https://media.giphy.com/media/3o7TKP2yA9ZJ0rN0G8/giphy.gif" alt="Robot Coding" height="200"/>
 </p>
+
 
 ---
 
