@@ -36,7 +36,7 @@
 ## 💻 Coding Animation
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=36BCF7&width=500&height=80&lines=🤖+Artificial+Intelligence;⚡+Quantum+Computing;🧠+Neural+Networks;🚀+Robotics+%26+Automation;💻+Future+Technologies" alt="Tech Animation" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroFrasao&repo=your-repo&theme=radical&show_owner=true&animated=true" alt="3d card" />
 </p>
 ---
 ## 📫 Let's connect
