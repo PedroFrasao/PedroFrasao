@@ -36,8 +36,9 @@
 ## 💻 Coding Animation
 
 <p align="center">
-  <strong>🦖 Jogue o Dinossauro do Google! 🦖</strong><br>
-  <iframe src="https://codepen.io/MysticReborn/embed/rygqao" width="600" height="400" frameborder="0"></iframe>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Dino Game GIF" height="200"/>
+  <br>
+  <em>🎮 Pressione Espaço para pular os cactos! (na sua imaginação 😄)</em>
 </p>
 
 ---
