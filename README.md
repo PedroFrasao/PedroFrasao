@@ -36,9 +36,8 @@
 ## 💻 Coding Animation
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&width=435&lines=Quantum+Computing;Neural+Networks;Artificial+Intelligence;Robotics+%26+AI;Future+Technologies" alt="Tech Animation" />
+  <img src="https://assets1.lottiefiles.com/packages/lf20_0yfsb3a1.json" alt="Robot Animation" height="200" />
 </p>
----
 
 ## 📫 Let's connect
 
