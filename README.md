@@ -33,11 +33,12 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🟡 Gráfico de Contribuição do Pac-Man
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>  
+  <img src="https://github.com/PedroFrasao/pacman-contribution-graph/blob/output/pacman-contribution-graph.svg" alt="Gráfico de Contribuição do Pac-Man" />
+</p>
+
 
 ---
 
