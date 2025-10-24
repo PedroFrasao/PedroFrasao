@@ -33,10 +33,10 @@
 
 ---
 
-## 🟡 Gráfico de Contribuição do Pac-Man
+## 🟡 Coding Animation
 
 <p align="center">
-  <img src="https://github.com/PedroFrasao/snk-workflow/blob/output/github-contribution-pacman.gif" alt="Snake animation" />
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Coding Animation" height="200"/>
 </p>
 
 ---
