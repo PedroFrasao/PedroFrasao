@@ -36,7 +36,7 @@
 ## 💻 Coding Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PedroFrasao/PedroFrasao/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&width=435&lines=Quantum+Computing;Neural+Networks;Artificial+Intelligence;Robotics+%26+AI;Future+Technologies" alt="Tech Animation" />
 </p>
 ---
 
