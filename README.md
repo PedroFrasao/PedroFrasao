@@ -36,9 +36,8 @@
 ## 💻 Coding Animation
 
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Quantum Computing" height="200"/>
+  <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake.svg" alt="snake game" />
 </p>
-
 ---
 
 ## 📫 Let's connect
