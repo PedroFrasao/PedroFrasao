@@ -36,9 +36,8 @@
 ## 💻 Coding Animation
 
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Quantum Computing" height="200"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Future Tech" height="200"/>
 </p>
-
 ---
 
 ## 📫 Let's connect
