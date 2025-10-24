@@ -36,7 +36,7 @@
 ## 💻 Coding Animation
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" height="200"/>
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Coding Animation" height="200"/>
 </p>
 
 
