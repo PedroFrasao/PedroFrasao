@@ -36,7 +36,7 @@
 ## 💻 Coding Animation
 
 <p align="center">
-  <img src="https://media.giphy.com/media/HscDL8OdmL6VjgnM0l/giphy.gif" alt="Neural Network" height="200"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Quantum Computing" height="200"/>
 </p>
 
 ---
