@@ -36,9 +36,10 @@
 ## 💻 Coding Animation
 
 <p align="center">
-  <img src="https://assets1.lottiefiles.com/packages/lf20_0yfsb3a1.json" alt="Robot Animation" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroFrasao&theme=radical&animated=true" alt="streak stats" />
 </p>
 
+---
 ## 📫 Let's connect
 
 <p align="center">
