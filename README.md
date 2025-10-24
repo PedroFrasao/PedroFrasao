@@ -36,7 +36,8 @@
 ## 💻 Coding Animation
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Future Tech" height="200"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3dhYnk0OWk1cHdhNmE0b3RveHdsc3ZveXVpeHZnZjhkcjFocWZqMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vTr3WiTdqpL6GOT5mF/giphy.gif
+" alt="Future Tech" height="200"/>
 </p>
 ---
 
