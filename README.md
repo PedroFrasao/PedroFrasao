@@ -33,10 +33,10 @@
 
 ---
 
-## 🟡 Coding Animation
+## 🤖 Coding Animation
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Coding Animation" height="200"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Robot Coding" height="200"/>
 </p>
 
 ---
