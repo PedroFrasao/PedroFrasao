@@ -10,7 +10,7 @@ Trabalhando com **Python**, **PyTorch**, **LoRA**, Hugging Face e visão computa
 - **[Modelo que Conta Piadas com LoRA](https://github.com/PedroFrasao/[nome-do-repo-lora])**  
   Fine-tuning de LLM usando LoRA para geração de piadas criativas e contextuais. (Python + PyTorch + Hugging Face)
 
-- **[Reconhecimento Facial para Discord](https://github.com/PedroFrasao/[nome-do-repo-facial])**  
+- **[Reconhecimento Facial para Discord](https://github.com/PedroFrasao/[https://github.com/PedroFrasao/facial-recognition])**  
   Sistema que detecta o rosto e mantém o Discord aberto automaticamente. (Python + OpenCV + Discord API)
 
 - **[MiniMovieAI](https://github.com/PedroFrasao/MiniMovieAI)**  
