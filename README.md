@@ -1,27 +1,27 @@
-# 👋 Olá, sou Pedro Henrique Frasão
+# Hi, I'm Pedro Henrique Frasão
 
-Estudante de Engenharia da Computação na UNIUBE (formatura prevista: 2028)  
-Estagiário de TI na Valmont (1 ano e 4 meses) – foco em IA, NLP e desenvolvimento Python.
+Computer Engineering student at UNIUBE (expected graduation: 2028)  
+TI Intern at Valmont (1 year and 4 months) – focus on AI, NLP, and Python development.
 
-Apaixonado por **Inteligência Artificial**, Machine Learning e automação.  
-Trabalhando com **Python**, **PyTorch**, **LoRA**, Hugging Face e visão computacional.
+Passionate about **Artificial Intelligence**, Machine Learning, and automation.  
+Working with **Python**, **PyTorch**, **LoRA**, Hugging Face, and computer vision.
 
-### Principais Projetos (clique para ver o código e detalhes)
-- **[Modelo que Conta Piadas com LoRA](https://github.com/PedroFrasao/[lora-llm-experiments])**  
-  Fine-tuning de LLM usando LoRA para geração de piadas criativas e contextuais. (Python + PyTorch + Hugging Face)
+### Key Projects (click to view code and details)
+- **[LoRA LLM Experiments – Jokes Generation Model](https://github.com/PedroFrasao/lora-llm-experiments)**  
+  Fine-tuning LLMs using LoRA to generate creative and contextual jokes. (Python + PyTorch + Hugging Face)
 
-- **[Reconhecimento Facial para Discord](https://github.com/PedroFrasao/[facial-recognition])**  
-  Sistema que detecta o rosto e mantém o Discord aberto automaticamente. (Python + OpenCV + Discord API)
+- **[Facial Recognition for Discord](https://github.com/PedroFrasao/facial-recognition)**  
+  System that detects the face and keeps Discord open automatically. (Python + OpenCV + Discord API)
 
 - **[MiniMovieAI](https://github.com/PedroFrasao/MiniMovieAI)**  
-  Experimentos em processamento de vídeo e IA com C++.  
+  Experiments in video processing and AI with C++.
 
-- **[Outros projetos de IA e automação](https://github.com/PedroFrasao?tab=repositories)**  
-  Mais repositórios com foco em deep learning, NLP e ferramentas práticas.
+- **[Other AI & Automation Projects](https://github.com/PedroFrasao?tab=repositories)**  
+  More repositories focused on deep learning, NLP, and practical tools.
 
-### Contatos
+### Contact
 - 📧 Email: pedrofrasaovieira@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/pedro-frasão-ba8b08262](https://www.linkedin.com/in/pedro-frasão-ba8b08262)  
 - 🌐 GitHub: [github.com/PedroFrasao](https://github.com/PedroFrasao)
 
-*"Construindo hoje o que o futuro vai usar."*
+*"Building today what the future will use."*
