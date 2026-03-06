@@ -7,10 +7,10 @@ Apaixonado por **Inteligência Artificial**, Machine Learning e automação.
 Trabalhando com **Python**, **PyTorch**, **LoRA**, Hugging Face e visão computacional.
 
 ### Principais Projetos (clique para ver o código e detalhes)
-- **[Modelo que Conta Piadas com LoRA](https://github.com/PedroFrasao/[nome-do-repo-lora])**  
+- **[Modelo que Conta Piadas com LoRA](https://github.com/PedroFrasao/[lora-llm-experiments])**  
   Fine-tuning de LLM usando LoRA para geração de piadas criativas e contextuais. (Python + PyTorch + Hugging Face)
 
-- **[Reconhecimento Facial para Discord](https://github.com/PedroFrasao/[https://github.com/PedroFrasao/facial-recognition])**  
+- **[Reconhecimento Facial para Discord](https://github.com/PedroFrasao/[facial-recognition])**  
   Sistema que detecta o rosto e mantém o Discord aberto automaticamente. (Python + OpenCV + Discord API)
 
 - **[MiniMovieAI](https://github.com/PedroFrasao/MiniMovieAI)**  
