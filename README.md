@@ -22,4 +22,4 @@ Working with **Python**, **PyTorch**, **LoRA**, Hugging Face, and computer visio
 - 🔗 LinkedIn: [linkedin.com/in/pedro-frasão-ba8b08262](https://www.linkedin.com/in/pedro-frasão-ba8b08262)  
 - 🌐 GitHub: [github.com/PedroFrasao](https://github.com/PedroFrasao)
 
-*"Building today what the future will use."*
+*"Building the future, one commit at a time."*
