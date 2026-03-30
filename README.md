@@ -13,8 +13,6 @@ Working with **Python**, **PyTorch**, **LoRA**, Hugging Face, and computer visio
 - **[Facial Recognition for Discord](https://github.com/PedroFrasao/facial-recognition)**  
   System that detects the face and keeps Discord open automatically. (Python + OpenCV + Discord API)
 
-- **[MiniMovieAI](https://github.com/PedroFrasao/MiniMovieAI)**  
-  Experiments in video processing and AI with C++.
 
 - **[Other AI & Automation Projects](https://github.com/PedroFrasao?tab=repositories)**  
   More repositories focused on deep learning, NLP, and practical tools.
